@@ -29,12 +29,16 @@ nav,
 #credits {
   background-color: black;
   height: 60px;
-  /* Your code goes here */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container {
   width: 500px;
-  /* Your code goes here */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .button {
